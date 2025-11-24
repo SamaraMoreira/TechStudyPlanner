@@ -63,23 +63,23 @@ O agente gera um JSON final **compatível com Logic Apps**:
 ## 🚀 Passo a passo para criação do agente TechStudyPlanner no Azure AI Foundry
 
 ### 1️⃣ Criação do Grupo de Recursos
-![Grupo de recurso](./images/grupo%20de%20recurso.PNG)
+![Grupo de recurso](https://drive.google.com/uc?export=view&id=16nkyQIYrKy3ypMP_5Y_M_BGd9kgzaesi)
 
 ---
 
 ### 2️⃣ Criando o Projeto no Azure AI Foundry
-![Criando Projeto](./images/projeto.PNG)
+![Criando Projeto](https://drive.google.com/uc?export=view&id=10B3uDFc7jdKGkkyTRQi2vuNkjYot0olN)
 
 ---
 
 ### 3️⃣ Selecionando o Modelo
-![Modelo Selecionado](./images/modelo%20selecionado.PNG)
+![Modelo Selecionado](https://drive.google.com/uc?export=view&id=12BXY9zZNfRtxqVGRjKGgkjNZXscsttML)
 
 ---
 
 ### 4️⃣ Definindo o Tipo de Implantação
 
-![Tipo de implantação](./images/tipo%20de%20implantação.PNG)
+![Tipo de implantação](https://drive.google.com/uc?export=view&id=10KMJteUEHPumk1UarEYqD9tj5TalHlub)
 
 ---
 
@@ -169,22 +169,22 @@ Não armazenar dados sensíveis.
 
 </details>
 
-![Configuração do agente](./images/Configurações%20do%20Agente.PNG)
+![Configuração do agente](https://drive.google.com/uc?export=view&id=1hS76Ah4vN80MwKlBEmIR8jjZw-bycMVE)
 
 ### 6️⃣ Adicionar ação
 Seguimos com a configuração da ação em Aplicativos Lógicos da Azure
-![ Adicionar ação](./images/Adicionar%20ação.PNG)
+![ Adicionar ação](https://drive.google.com/uc?export=view&id=16Ab2YDeQMdHN51Ov_BQOuYoRNyHnMaCq)
 
 ### 7️⃣ Configuração da ação
-![ Configuração da ação](./images/Configuração%20de%20ação.PNG)
+![ Configuração da ação](https://drive.google.com/uc?export=view&id=1GhqKrMIjm6yWGfMg4Ll4xWMEPlLiDuK6)
 
 ### 8️⃣ Autenticando com o E-mail
 Selecione uma conta válida do Office 365 com permissão para envio de e-mails e finalize a configuração.
-![Autenticado com E-mail](./images/Autenticado%20com%20e-mail.PNG)
+![Autenticado com E-mail](https://drive.google.com/uc?export=view&id=1Qcy7PbtkWoKY1xkL8yTjL9hS_KB-l_HE)
 
 ## 9️⃣ Agente Criado
 Após finalizar a configuração, utilizamos o Playground do Azure AI Foundry para conversas e validações do agente.
-![Agente Criado](./images/agente_criado.png)
+![Agente Criado](https://drive.google.com/uc?id=1iscwGco2N5lvawKIYc-OT4iT6kYeA8ic)
 
 ### 🧪 Prints dos Testes de Prompt
 
@@ -202,13 +202,13 @@ Enviei a seguinte solicitação ao agente:
 > O e-mail deveria ser enviado para **estudosm000@gmail.com**.
 
 ### 📷 Prints da execução
-![Teste Prompt 1](./images/teste%20prompt%20print%201.PNG)
-![Teste Prompt 2](./images/teste%20prompt%20print%202.PNG)
-![Teste Prompt 3](./images/teste%20prompt%20print%203.PNG)
-![Teste Prompt 4](./images/teste%20prompt%20print%204.PNG)
+![Teste Prompt 1](https://drive.google.com/uc?export=view&id=15ggi3W4rf69vISeho2TAuTtK1Hx3-GYR)
+![Teste Prompt 2](https://drive.google.com/uc?export=view&id=1kFJPcu7G7B9eaAK7rari9m6vDPqTlaF3)
+![Teste Prompt 3](https://drive.google.com/uc?export=view&id=1haAJKicjLjYguxKMXYN2bO6NFqc1tw3I)
+![Teste Prompt 4](https://drive.google.com/uc?export=view&id=1Q4vh1sJAANtlWYFXfDdwkkCMQsD0PpAH)
 
 ### ✉️ Primeiro e-mail enviado pelo agente
-![Email 1](./images/primeiro%20e-mail.PNG)
+![Email 1](https://drive.google.com/uc?export=view&id=1kicHwA7GoTvHwUjakYxj-VLPzxIre6bJ)
 
 ---
 
@@ -219,11 +219,11 @@ Após o envio do primeiro e-mail, iniciei um novo teste na mesma conversa:
 > Quero realizar um **intensivão de simulados**, com um novo cronograma contendo **um simulado diário de 16/12/2025 a 23/12/2025**, enviado para um novo endereço de e-mail.
 
 ### 📷 Prints da execução
-![Teste Prompt 5](./images/teste%20prompt%20print%205.PNG)
-![Teste Prompt 6](./images/teste%20prompt%20print%206.PNG)
+![Teste Prompt 5](https://drive.google.com/uc?export=view&id=1a3m4X8q8CvCb-d49c11yn-kYXJaH0w-R)
+![Teste Prompt 6](https://drive.google.com/uc?export=view&id=1wZtrym-QYx3yIYjmtHAzI-O2vd6G5nRq)
 
 ### ✉️ Segundo e-mail enviado pelo agente
-![Email 2](./images/segundo%20e-mail.PNG)
+![Email 2](https://drive.google.com/uc?export=view&id=1udlHKhoopbfr1ZOEoXVFGNWe3bP-e1o1)
 
 ---
 
